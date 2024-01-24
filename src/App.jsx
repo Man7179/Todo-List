@@ -7,7 +7,7 @@ import Todos from './components/todos'
 function App() {
   return (
     <>
-  <h1>Learn about react Redux ToolKit</h1>  
+  <h1>Todo List</h1>  
   <AddTodo />
       <Todos />    
     </>
